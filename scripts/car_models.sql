@@ -1,4 +1,5 @@
 -- db indexed_cars
+DROP TABLE IF EXISTS car_models;
 
 CREATE TABLE IF NOT EXISTS car_models
 (
